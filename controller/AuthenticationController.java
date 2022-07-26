@@ -26,4 +26,7 @@ public class AuthenticationController {
 	public void simple(){
 
 	}
+	public void main(){
+
+	}
 }

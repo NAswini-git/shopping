@@ -23,6 +23,9 @@ public class AuthenticationController {
 	public void insertData(User user) {
 		AUTHENTICATOR_VALIDATION.insertData(user);	
 	}
+	public void simple(){
+
+	}
 	public void branch2(){
 //		System.out.println("2nd time");
 	}

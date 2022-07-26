@@ -26,10 +26,7 @@ public class AuthenticationController {
 	public void simple(){
 
 	}
-	public void branch2(){
-//		System.out.println("2nd time");
-	}
-	private void run(){
-//		System.out.println("hi");
+	public void main(){
+
 	}
 }

@@ -20,6 +20,7 @@ public class AuthenticationController {
 //		return AUTHENTICATOR_VALIDATION.validtePassword(emailId, password);
 //	}
 
+mergeconflict
 	public void insertData(User user) {
 		AUTHENTICATOR_VALIDATION.insertData(user);	
 	}
